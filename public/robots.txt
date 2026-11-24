@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Allow: /images/
 
-Sitemap: https://balaji-baby-cradle.vercel.app/sitemap.xml
+Sitemap: https://balajibabycradle.com/sitemap.xml
