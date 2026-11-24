@@ -1,0 +1,6 @@
+# Balaji Baby Cradle - Jadhav Brothers, Satara
+User-agent: *
+Allow: /
+Allow: /images/
+
+Sitemap: https://balaji-baby-cradle.vercel.app/sitemap.xml
